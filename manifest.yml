@@ -1,0 +1,9 @@
+---
+applications:
+- name: hello-cloud
+  memory: 128M
+  instances: 1
+  host: hello-cloud
+  domain: cfapps.io
+  path: .
+  command: node app.js
