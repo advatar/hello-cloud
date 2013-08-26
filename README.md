@@ -1,4 +1,1 @@
-# local
-
-1. $ npm install
-2. $ node app
+Who does not need to say hello?
