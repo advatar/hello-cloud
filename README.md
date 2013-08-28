@@ -1,1 +1,1 @@
-Who does not need to say hello?
+Use this as a starting point to build something more interesting.
